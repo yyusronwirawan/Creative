@@ -1,0 +1,16 @@
+{
+  "name": "LARAVEL",
+  "version": "1.1.0",
+  "description": "LARAVEL",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}

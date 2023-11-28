@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'ProximaNova';
+  src: 
+	url('../fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'),  
+	url('../fonts/ProximaNova-Regular.otf')  format('opentype'),
+	     
+	url('../fonts/ProximaNova-Regular.woff') format('woff'), 
+	url('../fonts/ProximaNova-Regular.ttf')  format('truetype'), 
+	url('../fonts/ProximaNova-Regular.svg#ProximaNova-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova';
+  src: 
+	url('../fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'),  
+	url('../fonts/ProximaNova-Bold.otf')  format('opentype'),
+	     
+	url('../fonts/ProximaNova-Bold.woff') format('woff'), 
+	url('../fonts/ProximaNova-Bold.ttf')  format('truetype'), 
+	url('../fonts/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+	font-family: 'ProximaNova';
+	src: 
+		url('../fonts/ProximaNova-Light.eot?#iefix') format('embedded-opentype'),  
+		url('../fonts/ProximaNova-Light.otf')  format('opentype'),
+		url('../fonts/ProximaNova-Light.woff') format('woff'), 
+		url('../fonts/ProximaNova-Light.ttf')  format('truetype'), 
+		url('../fonts/ProximaNova-Light.svg#ProximaNova-Light') format('svg');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SourceSansPro-Regular';
+	src: 
+		url('../fonts/SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'),  
+		url('../fonts/SourceSansPro-Regular.woff') format('woff'), 
+		url('../fonts/SourceSansPro-Regular.ttf')  format('truetype'), 
+		url('../fonts/SourceSansPro-Regular.svg#SourceSansPro-Regular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SourceSansPro-Bold';
+	src: 
+		url('../fonts/SourceSansPro-Bold.eot?#iefix') format('embedded-opentype'),  
+		url('../fonts/SourceSansPro-Bold.woff') format('woff'), 
+		url('../fonts/SourceSansPro-Bold.ttf')  format('truetype'), 
+		url('../fonts/SourceSansPro-Bold.svg#SourceSansPro-Bold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,144 @@
+@media (max-width: 991px) {
+	.zm-viewer { 
+		display: none !important; 
+	}
+	.input-group {
+	    width: 120px;
+	    input.form-control {
+	        padding: 5px 7px;
+	        font-size: 12px;
+	    }
+	    .input-group-append {
+	        .hvr-button {
+	            font-size: 12px;
+	            padding: 6px 5px 9px;
+	        }
+	    }
+	}
+	.hidden-md {
+		display: none;
+	}
+	.click-menu {
+		display: block !important;
+	}
+	.abs-menu {
+		display: none;
+	}
+	header {
+		padding: 10px 0;
+	}
+	footer {
+		padding: 10px 0;
+	}
+	.main {
+		padding: 50px 0;
+		&.pad30 {
+			padding: 30px 0 50px;
+		}
+		.product {
+			.mb100 {
+				margin-bottom: 70px;
+			}
+	        .t-product {
+	            font-size: 22px;
+	            line-height: 30px;
+	            margin-bottom: 15px;
+	        }
+	    }
+		.table-cart {
+			&.resp-cart {
+				.w190 {
+					width: 120px;
+				}
+			}
+			.w280 {
+				width: 150px;
+			}
+			.tbl-quantity {
+				display: block;
+				height: auto;
+				.cell {
+					&.show767 {
+						display: none;
+					}
+					display: block;
+				}
+			}
+			.input-quantity {
+				margin-bottom: 10px;
+			}
+			.w120 {
+				width: 100%;
+			}
+	        .hdr {
+	            font-size: 17px;
+	        }
+	        .w190 {
+	            width: 145px;
+	        }
+	        .w140 {
+	        	width: 100px;
+	        }
+	        .body {
+	            font-size: 15px;
+	            line-height: 20px;
+	        }
+	    }
+		.pad-about {
+	        padding: 0 10px;
+	    }
+		.box-testi {
+	        margin-bottom: 50px;
+	        padding: 15px 0;
+	        &.order {
+	        	margin-bottom: 40px;
+	        	.t {
+	        		font-size: 18px;
+	        		margin-bottom: 5px;
+	        	}
+	        }
+	        .bdy-testi {
+	            margin-bottom: 15px;
+	            padding-bottom: 15px;
+	            p {
+	                font-size: 14px;
+	            }
+	        }
+	        .nm-testi {
+	            font-size: 13px;
+	        }
+	    }
+	    .text {
+	        font-size: 22px;
+	        margin-bottom: 7px;
+	    }
+		.bdy {
+			.img {
+	            width: 40px;
+	        }
+	        // b {
+	        //     font-size: 16px;
+	        //     line-height: 24px;
+	        // }
+	        // p {
+	        //     font-size: 16px;
+	        //     line-height: 24px;
+	        // }
+	    }
+		.title {
+	        font-size: 18px;
+	        padding: 12px 0;
+	        &.mb30 {
+	            margin-bottom: 20px;
+	        }
+	        &.mb50 {
+	            margin-bottom: 40px;
+	        }
+	    }
+	    .slider-banner {
+	        .slick-dots {
+	            bottom: 15px;
+	        }
+	    }
+	}
+}

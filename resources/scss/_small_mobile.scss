@@ -1,0 +1,13 @@
+@media (max-width: 450px) {
+	.main {
+		.resp-block {
+			display: block;
+			> div {
+				max-width: 100%;
+				&.text-right {
+					text-align: left !important;
+				}
+			}
+		}
+	}
+}

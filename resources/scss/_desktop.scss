@@ -1,0 +1,21 @@
+@media (max-width: 1199px) {
+	header {
+	    ul.l-hdr {
+	        li {
+	            margin-right: 15px; 
+	        }
+	    }
+	}
+	.main {
+		.abs-menu {
+			top: 50%;
+		}
+		.table-cart {
+			&.resp-cart {
+				.w190 {
+					width: 160px;
+				}
+			}
+		}
+	}
+}
